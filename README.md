@@ -7,7 +7,7 @@ Water scarcity is a growing sustainability challenge, especially in urban and se
 - **SDG 6: Clean Water and Sanitation**
 
 ## Problem Statement
-Increasing water scarcity is a major sustainability challenge where households often consume water inefficiently due to lack of awareness and monitoring. Existing systems fail to provide actionable insights, leading to excessive water usage and long-term stress on water resources.
+How might we use AI to analyze household water usage patterns and provide intelligent recommendations so that water consumption can become more sustainable?
 
 ## Proposed Solution
 The Smart Water Usage Advisor uses AI to analyze daily and weekly water usage data, detect inefficient consumption patterns, and generate personalized water-saving recommendations. The system helps users understand their water usage behavior and adopt sustainable practices.
