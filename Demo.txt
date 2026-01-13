@@ -1,0 +1,2 @@
+Input: Weekly water usage exceeds normal limit
+Output: AI suggests reducing shower duration and checking for leaks
